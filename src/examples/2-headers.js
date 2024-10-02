@@ -18,7 +18,7 @@ const Headers = () => {
       console.log(resp);
       
     } catch (error) {
-      console.log(error.resp);
+      console.log(error.response);
       
     }
   };
